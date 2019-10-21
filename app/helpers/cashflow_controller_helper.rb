@@ -1,0 +1,2 @@
+module CashflowControllerHelper
+end
